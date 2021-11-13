@@ -29,5 +29,4 @@ summary: ""
 
 Будущее наших детей в наших руках!
 
-
 {% include links.html %}

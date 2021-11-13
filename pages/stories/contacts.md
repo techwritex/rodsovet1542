@@ -16,6 +16,4 @@ summary: ""
 - [school_1542@mail.ru](mailto:school_1542@mail.ru)
 
 
-
-
 {% include links.html %}
