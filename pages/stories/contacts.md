@@ -16,4 +16,8 @@ summary: ""
 - [school_1542@mail.ru](mailto:school_1542@mail.ru)
 
 
+**Телеграм-чат родителей воспитанников и учеников  ГБОУ «Школа № 1542»:** 
+
+- [https://t.me/joinchat/uEbCAwIrEP8zMjFi](https://t.me/joinchat/uEbCAwIrEP8zMjFi)
+
 {% include links.html %}
