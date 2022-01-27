@@ -13,9 +13,9 @@ entries:
     url: documents.html
     output: web
 
-  # - title: Заметки 
-  #   url: news.html
-  #   output: web
+  - title: Новости 
+    url: news.html
+    output: web
   
   - title: Контакты 
     url: contacts.html
