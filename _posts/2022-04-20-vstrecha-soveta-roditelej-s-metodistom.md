@@ -11,7 +11,7 @@ tags: []
 
 <p><img src="{{ "images/opros_profile.png" }}" alt="Результат опроса родителей"/></p>
 
-[Скачать рфайл с результатами опроса](http://rodsovet1542.ru/images/opros_profile.png)
+[Скачать файл с результатами опроса](http://rodsovet1542.ru/images/opros_profile.png)
 
 Уважаемые родители учеников и воспитанников ГБОУ Школа 1542!
 
