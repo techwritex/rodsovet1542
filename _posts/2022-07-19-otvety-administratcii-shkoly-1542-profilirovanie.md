@@ -17,14 +17,14 @@ tags: []
 
 ### Ответы администрации Школы на вопросы родителей
 
-<p><img src="{{ "images/otvety-administratcii-shkoly-1542-01.png" }}" alt="Ответы администрации Школы 1542 на вопросы родителей"/></p>
-<p><img src="{{ "images/otvety-administratcii-shkoly-1542-02.png" }}" alt="Ответы администрации Школы 1542 на вопросы родителей"/></p>
-<p><img src="{{ "images/otvety-administratcii-shkoly-1542-03.png" }}" alt="Ответы администрации Школы 1542 на вопросы родителей"/></p>
-<p><img src="{{ "images/otvety-administratcii-shkoly-1542-04.png" }}" alt="Ответы администрации Школы 1542 на вопросы родителей"/></p>
-<p><img src="{{ "images/otvety-administratcii-shkoly-1542-05.png" }}" alt="Ответы администрации Школы 1542 на вопросы родителей"/></p>
-<p><img src="{{ "images/otvety-administratcii-shkoly-1542-06.png" }}" alt="Ответы администрации Школы 1542 на вопросы родителей"/></p>
+<p><img src="{{ "images/otvety-administratcii-shkoly-1542_01.png" }}" alt="Ответы администрации Школы 1542 на вопросы родителей"/></p>
+<p><img src="{{ "images/otvety-administratcii-shkoly-1542_02.png" }}" alt="Ответы администрации Школы 1542 на вопросы родителей"/></p>
+<p><img src="{{ "images/otvety-administratcii-shkoly-1542_03.png" }}" alt="Ответы администрации Школы 1542 на вопросы родителей"/></p>
+<p><img src="{{ "images/otvety-administratcii-shkoly-1542_04.png" }}" alt="Ответы администрации Школы 1542 на вопросы родителей"/></p>
+<p><img src="{{ "images/otvety-administratcii-shkoly-1542_05.png" }}" alt="Ответы администрации Школы 1542 на вопросы родителей"/></p>
+<p><img src="{{ "images/otvety-administratcii-shkoly-1542_06.png" }}" alt="Ответы администрации Школы 1542 на вопросы родителей"/></p>
 
-[**Увеличить (можно будет сохранить)**](https://rodsovet1542.ru/images/otvety_administratcii_1542_profilirovanie.pdf)
+[**Увеличить (можно будет сохранить)**](https://rodsovet1542.ru/images/otvety_administratcii_1542_profilirovanie_.pdf)
 
 ***
 
