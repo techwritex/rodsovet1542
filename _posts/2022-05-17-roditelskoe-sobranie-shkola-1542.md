@@ -15,11 +15,11 @@ tags: []
 
 Основные темы: профилизация, учебные периоды, безопасность, питание.
 
-Запись собрания представлена ниже.
+Запись собрания будет добавлена позднее.
+
+Ниже представлена ссылка на файл (можно посмотреть с Яндекс.Диска).
 
 ***
-
-<object width="450" height="361"><param name="src" value="http://static.video.yandex.ru/lite/budinfo2010/4z9j5jkici.610/"/><param name="allowFullScreen" value="true"/><param name="scale" value="noscale"/><embed src="https://disk.yandex.ru/i/H4M5WbmqEo23MA" type="application/x-shockwave-flash" width="450" height="361" allowFullScreen="true" scale="noscale"> </embed></object>
 
 [**Ссылка на файл**](https://disk.yandex.ru/i/H4M5WbmqEo23MA)
 
