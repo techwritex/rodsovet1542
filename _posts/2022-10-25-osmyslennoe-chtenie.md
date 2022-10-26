@@ -29,7 +29,7 @@ tags: []
 
 <p><img src="{{ "images/osmyslennoe-chtenie-otvet-direktor-1542.jpg" }}" alt="Ответ директора ГБОУ Школа №1542 по осмысленному чтению"/></p>
 
-[**Сохранить файл)**](https://rodsovet1542.ru/images/osmyslennoe-chtenie-otvet-direktor-1542.jpg)
+[**Увеличить и сохранить файл**](https://rodsovet1542.ru/images/osmyslennoe-chtenie-otvet-direktor-1542.jpg)
 
 ## Ответ Министерства просвещения 
 
@@ -45,7 +45,7 @@ tags: []
 
 <p><img src="{{ "images/osmyslennoe-chtenie-otvet-minprosvet-6.png" }}" alt="Ответ Министерства просвещения по осмысленному чтению"/></p>
 
-[**Сохранить файл)**](https://rodsovet1542.ru/images/osmyslennoe-chtenie-otvet-minprosvet.pdf)
+[**Увеличить и сохранить файл**](https://rodsovet1542.ru/images/osmyslennoe-chtenie-otvet-minprosvet.pdf)
 
 *** 
 
